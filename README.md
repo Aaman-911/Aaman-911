@@ -9,6 +9,7 @@ Looking for software engineering and AI engineering roles: 2027 internships and 
 - **[WATCHER](https://github.com/Aaman-911/watcher)**: prompt-injection defence for browsing agents. Deterministic detection flagged 18/18 adversarial runs with 0 false positives on matched clean pages; 22 test suites, CI on every push, and a Chrome MV3 extension (WATCHER Shield).
 - **[SANKET](https://github.com/Aaman-911/SANKET-HACKSYNAPSE)**: two-way Indian Sign Language terminal for public service counters, a hackathon winner. Each camera frame becomes 543 landmarks classified on-device; a 3D avatar signs the staff's reply back.
 - **[Mark Killer](https://github.com/Aaman-911/mark-killer)**: Chrome MV3 extension that reverses Gemini's visible watermark blend exactly, for images and Veo video (decoded and re-encoded locally with WebCodecs). Nothing is uploaded.
+- **[HireUS](https://github.com/Aaman-911/hireus)**: AI mock interviewer, built with Kumar Shivam. Adaptive questions for your role and level, voice or typed answers, a Gemini-scored report on four metrics, and live job matches from Adzuna.
 
 #### Stack
 

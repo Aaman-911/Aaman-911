@@ -18,7 +18,7 @@ Each camera frame becomes 543 landmarks, classified on-device by a BiGRU trained
 Reverses the alpha blend exactly, for images and for Veo video decoded and re-encoded locally with WebCodecs. Nothing is uploaded.<br>
 <sub>JavaScript · WebCodecs · OffscreenCanvas</sub>
 
-**[HireUS](https://github.com/Aaman-911/hireus)** · AI mock interviewer, built with Kumar Shivam<br>
+**[HireUS](https://github.com/Aaman-911/hireus)** · AI mock interviewer<br>
 Adaptive questions for your role and level, voice or typed answers, a Gemini-scored report on four metrics, and live job matches from Adzuna.<br>
 <sub>React 19 · Express 5 · Gemini API · Web Speech API</sub>
 

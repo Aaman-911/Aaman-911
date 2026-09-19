@@ -22,12 +22,21 @@ Looking for software engineering and AI engineering roles: 2027 internships and 
 
 ### Selected work
 
-<p>
-<a href="https://github.com/Aaman-911/watcher"><img src="assets/card-watcher.webp" alt="WATCHER: prompt-injection defence for browsing agents" width="49%"></a>
-<a href="https://github.com/Aaman-911/SANKET-HACKSYNAPSE"><img src="assets/card-sanket.webp" alt="SANKET: two-way Indian Sign Language terminal" width="49%"></a>
-<a href="https://github.com/Aaman-911/mark-killer"><img src="assets/card-markkiller.webp" alt="Mark Killer: Gemini watermark remover for Chrome" width="49%"></a>
-<a href="https://github.com/Aaman-911/hireus"><img src="assets/card-hireus.webp" alt="HireUS: AI mock interviewer" width="49%"></a>
-</p>
+**[WATCHER](https://github.com/Aaman-911/watcher)** — prompt-injection defence for browsing agents<br>
+A zero-dependency defence library, a hardened browsing agent and a Chrome MV3 extension. Deterministic detection flagged 18/18 adversarial runs with 0 false positives on matched clean pages, backed by 22 test suites and CI on every push.<br>
+<sub>`Node.js` `Chrome MV3` `LLM agents` `GitHub Actions`</sub>
+
+**[SANKET](https://github.com/Aaman-911/SANKET-HACKSYNAPSE)** — two-way Indian Sign Language terminal · hackathon winner<br>
+A deaf visitor signs, staff read text, staff reply, and a 3D avatar signs it back. Each camera frame becomes 543 landmarks, classified on-device by a BiGRU trained on 4,800 self-recorded clips.<br>
+<sub>`TypeScript` `React` `TensorFlow.js` `ONNX Runtime Web` `MediaPipe` `Three.js`</sub>
+
+**[Mark Killer](https://github.com/Aaman-911/mark-killer)** — Gemini watermark remover for Chrome<br>
+Reverses the visible watermark blend exactly, for images and for Veo video decoded and re-encoded locally with WebCodecs. Nothing leaves the browser.<br>
+<sub>`JavaScript` `Chrome MV3` `WebCodecs` `OffscreenCanvas`</sub>
+
+**[HireUS](https://github.com/Aaman-911/hireus)** — AI mock interviewer<br>
+Adaptive questions for the candidate's role and level, voice or typed answers, a Gemini-scored report on four metrics, and live job matches from Adzuna.<br>
+<sub>`React 19` `Express 5` `Gemini API` `Web Speech API`</sub>
 
 ### Experience
 

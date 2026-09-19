@@ -22,7 +22,7 @@ CS undergrad at MITS Gwalior (B.Tech, 2027) and former AI intern at Parallel Pic
 
 ## Selected work
 
-<table>
+<table width="100%">
 <tr>
 <th align="left" width="24%">Project</th>
 <th align="left" width="52%">What it does</th>
@@ -56,7 +56,7 @@ CS undergrad at MITS Gwalior (B.Tech, 2027) and former AI intern at Parallel Pic
 
 ## Experience
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="24%"><b>AI Intern</b><br><sub>Parallel Pictures<br>June 2026 · Remote</sub></td>
 <td valign="top" align="justify">Automated the studio's end-to-end AI video production with Google Flow (Veo 3), Nano Banana, Omni Flash and ElevenLabs, chained those tools into one pipeline instead of a string of manual steps, and wrote the SOPs that made the workflow adoptable across the team.</td>
@@ -65,8 +65,8 @@ CS undergrad at MITS Gwalior (B.Tech, 2027) and former AI intern at Parallel Pic
 
 ## Recognition
 
-<table>
-<tr><td width="24%"><b>2025</b></td><td>Smart India Hackathon finalist, national level</td></tr>
+<table width="100%">
+<tr><td width="24%"><b>2025</b></td><td>Smart India Hackathon 2025 finalist &middot; national level</td></tr>
 <tr><td><b>2025</b></td><td>Special Award at two national-level hackathons</td></tr>
 <tr><td><b>2024</b></td><td>NPTEL certified in Cloud Computing</td></tr>
 </table>

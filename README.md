@@ -67,8 +67,8 @@ CS undergrad at MITS Gwalior (B.Tech, 2027) and former AI intern at Parallel Pic
 
 <table width="100%">
 <tr>
-<td valign="top" width="33%"><b>Smart India Hackathon 2025</b><br><sub>National finalist, Government of India</sub></td>
-<td valign="top" width="34%"><b>Special Award &times; 2</b><br><sub>Two national-level hackathons</sub></td>
-<td valign="top" width="33%"><b>NPTEL, Cloud Computing</b><br><sub>Certified course</sub></td>
+<td valign="top" width="33%"><b>Smart India Hackathon 2025</b><br><sub>National finalist in the Government of India's flagship innovation competition.</sub></td>
+<td valign="top" width="34%"><b>Special Award &times; 2</b><br><sub>Recognised at two separate national-level hackathons, plus a win for SANKET.</sub></td>
+<td valign="top" width="33%"><b>NPTEL &mdash; Cloud Computing</b><br><sub>Certified course from the joint IIT and IISc programme.</sub></td>
 </tr>
 </table>

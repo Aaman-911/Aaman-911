@@ -1,4 +1,4 @@
-<img src="assets/banner.jpg" alt="Aman Dixit: on-device AI, agent security, full-stack" width="100%">
+<img src="assets/banner.png" alt="Aman Dixit: on-device AI, agent security, full-stack" width="100%">
 
 CS undergrad at MITS Gwalior (B.Tech, 2027) and former AI intern at Parallel Pictures.
 I build on-device AI and security tooling for AI agents: software that has to be trustworthy, not just work.
